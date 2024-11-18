@@ -56,4 +56,4 @@ The model demonstrated strong predictive performance, achieving a high accuracy 
 
 ### Acknowledgements
 
-This project was completed as part of a Kaggle competition. Thanks to Kaggle and the competition organizers for providing the dataset and platform.
+This project was completed as part of a Kaggle competition. Thanks to Kaggle and the competition organizers for providing the dataset and platform!
